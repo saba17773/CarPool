@@ -1,0 +1,7 @@
+{
+    "require": {
+        "alexgarrett/violin": "*",
+        "league/plates": "*",
+        "slim/slim": "2.6.2"
+    }
+}

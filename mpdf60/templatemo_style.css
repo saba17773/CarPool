@@ -1,0 +1,10 @@
+
+article p{
+ font-size:1em;
+ line-height:1em;
+
+ height:4em; /*border:3px solid #00ACEE;*/
+ /*white-space: wrap;*/
+ overflow: hidden;
+ /*text-overflow: ellipsis;*/
+}
